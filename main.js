@@ -6,4 +6,4 @@ console.log(full_name);
 var a = 67
 var b = 46
 var add = a+b
-console.log("67 + 46 =" + add);
+console.log("67 + 46 =" + add)
